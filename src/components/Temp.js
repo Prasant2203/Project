@@ -572,7 +572,7 @@ export default function Temp() {
 
         <div className="credit">
           {" "}
-          created by <span>mr. web designer</span> | all rights reserved{" "}
+          created by <span>Prasant</span> | all rights reserved{" "}
         </div>
       </section>
 
